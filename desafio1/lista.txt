@@ -1,2 +1,5 @@
+Arroz
+Feijão
+Macarrão
 Café
 Açúcar
