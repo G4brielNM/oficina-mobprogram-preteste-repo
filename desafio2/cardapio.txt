@@ -1,3 +1,5 @@
 Churrasco;
 Lasanha;
 Panqueca;
+Sucos;
+Sorvetes;
